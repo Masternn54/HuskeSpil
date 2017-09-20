@@ -2,7 +2,7 @@
 https://s3-us-west-2.amazonaws.com/s.cdpn.io/494860/bagside.png */
 
 img {
-    max-width: 50px;
+    max-width: 100px;
 }
 
 img:hover {
