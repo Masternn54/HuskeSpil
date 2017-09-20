@@ -3,7 +3,7 @@
 $(document).ready(function() {
 
     var bagside_URL =
-        "https://s3-us-west-2.amazonaws.com/s.cdpn.io/494860/bagside.png";
+        "https://vignette.wikia.nocookie.net/rickandmorty/images/7/7b/Picklerick.jpg/revision/latest?cb=20170725205548";
     $("img").addClass("unturned");
     $(".unturned").attr("src", bagside_URL);
 

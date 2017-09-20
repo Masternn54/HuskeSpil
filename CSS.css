@@ -5,6 +5,10 @@ img {
     max-width: 100px;
 }
 
+body{
+ background-image:url("http://cdn.wallpapersafari.com/51/49/DxqXcI.jpg") ;   
+}
+
 img:hover {
     border: 3px #3e801e solid;
     max-width: 90px;
@@ -17,4 +21,12 @@ img:hover {
 
 .hidden {
     display: none;
+}
+.title{
+    color: white;
+    font-variant: small-caps;
+}
+.underclass{
+    color: #ff131f;
+    font-variant: small-caps;
 }
